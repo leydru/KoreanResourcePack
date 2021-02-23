@@ -1,0 +1,13 @@
+﻿{
+    "pack": {
+        "pack_format": 6,
+        "description": "비공식 한국어 번역"
+    },
+    "language": {
+        "ko": {
+            "name": "비공식 한국어",
+            "region": "대한민국",
+            "bidirectional": false
+        }
+    }
+}
